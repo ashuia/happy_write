@@ -14,7 +14,7 @@
 
 ## 专业技能
 
-:heavy_check_mark:开发工具用过`sublime text3`、`SVN`、`git`、`NetBeans ide`、`HBuilder`；  
+:heavy_check_mark:开发工具用过`sublime text3`、`SVN`、`git`、`NetBeans ide`、`HBuilder`、`Chrome Debug Tool`、`firebug`；  
 :heavy_check_mark:熟悉使用**`javascript`、`jquery`**，制作插件、`ajax`交互；  
 :heavy_check_mark:熟悉运用`framework7`开发移动端单页web应用；  
 :heavy_check_mark:熟悉运用`seajs`模块化写js代码，熟悉js插件的开发；  
@@ -39,14 +39,14 @@
 
 **项目名称**：页游官网重构  
 **项目周期**：2016.11~2017.1  
-**开发环境**：SVN+PHP+apache+window7+NetBeans  
+**开发环境**：`SVN`+`PHP`+`apache`+`window7`+`NetBeans ide`+`Chrome Debug Tool`  
 **项目描述**：此网站是公司主营业务端游与页游的官网。管理员可以只操作数据库控制网站内容的呈现，普通用户可以浏览官网，在线充值游戏币，进入各子游戏页，子系统之间都是调用服务来实现系统之间的通信，使用http协议传递json数据方式实现。这样降低了系统之间的耦合度，提高了系统的扩展性。并用ajax技术实现所有的前台与后端的数据交互。  
 **技术描述**：**前台系统**：用户可以在前台系统中注册、登陆，浏览游戏开服信息、新闻动态。  
 　　　　　**后台系统**：管理账户的各类信息，修改密码，修改个人信息，查看消费信息。  
 　　　　　**支付系统**：分为支付宝支付、微信支付、信用卡支付和普通网银支付。  
-**责任描述**：负责项目中的各页面的js交互与呈现  
-　　　　　处理部分模块ajax获取后端数据  
-　　　　　负责各子模块CMD化  
+**责任描述**：负责项目中的各页面的js交互与呈现。  
+　　　　　处理部分模块ajax获取后端数据。  
+　　　　　负责各子模块CMD化。  
 　　　　　处理页面在各浏览器中的兼容问题(兼容到ie7)。  
 
 
