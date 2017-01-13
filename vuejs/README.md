@@ -1,4 +1,4 @@
-**类型(type)**: 文档(document)
+**类型(type)**: 文档(document)  
 **文档名**: vuejs官方教程  
 **document name**: vuejs official tutorial  
 **online website**: [vuejs][onlineWebsite]  
