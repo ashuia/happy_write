@@ -1,6 +1,6 @@
 # 　　陈滔  
 
-| **姓名** | 陈滔 | **应聘岗位** | web前端（javascript方向） | **微信** | [wechatTbc](./photo/Wechat.jpg) |
+| **姓名** | 陈滔 | **应聘岗位** | web前端（javascript方向） | **微信** | [QR Code](./photo/Wechat.jpg) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Tel** | 17855867266 | **E-mail** | chinaitlearner@gmail.com | **籍贯** | 江西 |
 | **博客** | [博客by博客园][1] | **Github** | [github][2] | **linkedin** | [领英主页][3] |
