@@ -20,6 +20,8 @@
         Karma介绍：是一个基于Node.js的JavaScript测试执行过程管理工具，浏览器运行项目后监控文件内容的变化自动执行刷新页面。
         Mocha介绍：流行的javascript测试框架，测试代码执行结果是否符合预期。
     第八项：Setup e2e tests with Nightwatch? (Y/n)
+        翻译：是否安装用于端到端测试的Nightwatch？
+        e2e：端到端(end to end)
 
 3.  进入目录安装依赖：cd my-project | cnpm install
 
