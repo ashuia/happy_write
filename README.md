@@ -15,17 +15,17 @@
 ## 教育背景
 
 * **母校：金华职业技术学院　　　　专业：计算机应用技术　　　　:clock3: 2014.9—2017.5 :clock930:**  
-* **主修课程**：`C/C#`语言程序设计、网页设计、`web`应用开发、`asp.net`网站开发、ps和ae等平面设计软件、信息安全技术   
+* **主修课程**：`C/C#`语言程序设计、网页设计(`html5+css3+javascript`)、`web`应用开发、`asp.net`网站开发、ps和ae等平面设计软件、信息安全技术   
 * **自学课程**：**`javascript`高级**、**`c++`程序设计**、`c++STL`、`nodejs`基础、`vuejs`基础、**`linux`基础**、`python`程序设计、**数据结构与算法**、操作系统概念、汇编语言、计算机网络技术基础  
 
 ## 工作经历
 
-:clock3: 2016.10 - 2017.1 :clock930:　　　　亿博信息　　　　`javascript`程序员  
+:clock3: 2016.10 - 2017.1 :clock930:　　　　亿博　　　　`javascript`程序员  
 　　:+1:公司主要业务为游戏业务，参与公司多个项目开发。主要负责js相关功能的实现，详情请看项目经历。
 
 ## 项目经历
 
-**项目名称**：页游官网重构  
+**项目名称**：页游官网  
 **项目周期**：2016.11~2017.1  
 **开发环境**：`SVN`+`PHP`+`apache`+`window7`+`NetBeans ide`+`Chrome Debug Tool`+`seajs`  
 **项目描述**：此网站是公司主营业务端游与页游的官网。管理员可以只操作数据库控制网站内容的呈现，普通用户可以浏览官网，在线充值游戏币，进入各子游戏页，子系统之间都是调用服务来实现系统之间的通信，使用http协议传递json数据方式实现。这样降低了系统之间的耦合度，提高了系统的扩展性。并用ajax技术实现所有的前台与后端的数据交互。  
@@ -39,7 +39,7 @@
 
 ## 专业技能
 
-:heavy_check_mark:开发工具用过`sublime text3`、`SVN`、`git`、`NetBeans ide`、`HBuilder`、`Chrome Debug Tool`、`firebug`；  
+:heavy_check_mark:开发工具用过`sublime text3`、`SVN`、`git`、`NetBeans ide`、`HBuilder`、`Chrome Debug Tool`、`firebug`、`webpack`、nodejs、jade；  
 :heavy_check_mark:熟悉使用**`javascript`、`jquery`**，制作插件、`ajax`交互；  
 :heavy_check_mark:熟悉运用`framework7`开发移动端单页web应用；  
 :heavy_check_mark:熟悉运用`seajs`模块化写js代码，熟悉js插件的开发；  
